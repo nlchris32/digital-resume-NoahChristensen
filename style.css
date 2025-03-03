@@ -23,8 +23,8 @@ header {
 
 /* Profile Image */
 .profile-pic {
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
+    width: 260px; /* Adjust size as needed */
+    height: 390px;
     border-radius: 50%; /* Makes it circular */
     display: block;
     margin: 0 auto 10px; /* Centers the image */
